@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of FitFlow AI",
+  "description": "Next-generation adaptive AI fitness platform with real-time form correction, explainable personalization, and conversational coaching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
